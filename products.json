@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Milk",
+        "group": "Dairy",
+        "img": "milk.jpg",
+        "isFavourite": true
+    },
+    {
+        "title": "Kefir",
+        "group": "Dairy",
+        "img": "kefir.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Sour cream",
+        "group": "Dairy",
+        "img": "sour_cream.jpg",
+        "isFavourite": true
+    },
+    {
+        "title": "Cottage cheese",
+        "group": "Dairy",
+        "img": "cottage_cheese.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Cheese",
+        "group": "Dairy",
+        "img": "cheese.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Ice cream",
+        "group": "Dairy",
+        "img": "ice_cream.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Whipped cream",
+        "group": "Dairy",
+        "img": "whipped_cream.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Yogurt",
+        "group": "Dairy",
+        "img": "yogurt.jpg",
+        "isFavourite": true
+    },
+    {
+        "title": "Banana",
+        "group": "Fruits",
+        "img": "banana.jpg",
+        "isFavourite": true
+    },
+    {
+        "title": "Grapes",
+        "group": "Dairy",
+        "img": "grapes.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Orange",
+        "group": "Fruits",
+        "img": "orange.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Watermelon",
+        "group": "Fruits",
+        "img": "watermelon.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Cherry",
+        "group": "Fruits",
+        "img": "cherry.jpg",
+        "isFavourite": true
+    },
+    {
+        "title": "Pineapple",
+        "group": "Fruits",
+        "img": "pineapple.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Pretzel",
+        "group": "Bakery",
+        "img": "ptretzel.jpg",
+        "isFavourite": true
+    },
+    {
+        "title": "Rye bread",
+        "group": "Bakery",
+        "img": "rye_bread.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "Pita",
+        "group": "Bakery",
+        "img": "pita.jpg",
+        "isFavourite": false
+    },
+    {
+        "title": "White bread",
+        "group": "Bakery",
+        "img": "white_bread.jpg",
+        "isFavourite": true
+    }
+]
